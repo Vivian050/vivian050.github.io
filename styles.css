@@ -96,7 +96,7 @@ h1, h2, h3 {
 }
 
 .product-card img {
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
   margin-bottom: 10px;
 }
