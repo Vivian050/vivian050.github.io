@@ -106,3 +106,9 @@ h1, h2, h3 {
   font-size: 18px;
   margin-bottom: 30px;
 }
+.nav-links a {
+  color: #ffffff;  /* 白色文字 */
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+}
